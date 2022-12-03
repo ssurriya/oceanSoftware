@@ -71,7 +71,7 @@ class _ProductPageState extends State<ProductPage> {
                           _data[index].title!,
                           style: const TextStyle(
                               fontSize: 20,
-                              color: Colors.black54,
+                              color: Colors.black,
                               fontWeight: FontWeight.bold,
                               overflow: TextOverflow.fade),
                         )),
